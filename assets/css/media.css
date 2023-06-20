@@ -1,0 +1,74 @@
+@media (max-width: 768px) {
+  .section-sub-title {
+    margin-top: 10px;
+  }
+  .text.text-center {
+    text-align: center !important;
+    padding: 15px;
+  }
+  .inner-page h2.heading,
+  .ht-box-images.style-01 .image-box-wrap .content {
+    margin-top: 10px;
+    text-align: center;
+  }
+  .gradation-title-wrapper {
+    align-items: center;
+  }
+  .text {
+    text-align: left !important;
+  }
+  h4.heading.font24 {
+    font-size: 24px !important;
+    text-align: center !important;
+    margin: 30px 0 0 0;
+  }
+  .section-title-wrap.text-center.section-space--mb_30 .text {
+    text-align: center !important;
+  }
+  .section-space--ptb_60 {
+    padding-bottom: 60px !important;
+  }
+  .resources-left-box {
+    text-align: left;
+  }
+  h4.heading,
+  .cybersecurity-about-text .text.text-center {
+    margin-bottom: 50px;
+  }
+  .feature-images-wrapper.section-space--ptb_100 {
+    padding-top: 40px;
+  }
+  .section-under-heading.text-center.section-space--mt_40 {
+    text-align: center !important;
+    margin-top: 20px;
+  }
+  ul.check-list,
+  .ht-box-images.style-04 .image-box-wrap .content .text {
+    margin-bottom: 15px;
+  }
+  .text.text-center.newfont.font18 {
+    text-align: center !important;
+  }
+  .ourmission .text {
+    text-align: center !important;
+}
+  .text {
+    text-align: left !important;
+  }
+}
+
+.check-list .list-item a {
+  line-height: inherit;
+}
+.resources-inner.cybersecurity-about-text {
+  margin-bottom: 30px;
+}
+
+.ht-box-images.style-10 .image-box-wrap .box-image img {
+  width: 100px;
+  height: 100px;
+}
+.ht-box-images.style-04 .image-box-wrap .box-image img{
+  height: 75px;
+  width: 75px;
+}
